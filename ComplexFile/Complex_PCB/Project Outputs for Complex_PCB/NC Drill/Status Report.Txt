@@ -1,0 +1,15 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Complex_PCB.PrjPcb]
+   Generated File[ComplexCurcuit-RoundHoles.TXT]
+   Generated File[ComplexCurcuit-SlotHoles.TXT]
+   Generated File[ComplexCurcuit-RoundHoles.TX1]
+   Generated File[ComplexCurcuit-RoundHoles.TX2]
+   Generated File[ComplexCurcuit.LDP]
+   Generated File[ComplexCurcuit.DRR]
+
+
+Files Generated   : 6
+Documents Printed : 0
+
+Finished Output Generation At 15:10:16 On 5.02.2024

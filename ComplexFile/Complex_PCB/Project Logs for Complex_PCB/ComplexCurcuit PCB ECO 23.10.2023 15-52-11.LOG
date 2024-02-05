@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=LIGHT_2_VCC Pin=RL1-2
+Removed Pin From Net: NetName=LIGHT_2_GND Pin=RL1-3
+Removed Pin From Net: NetName=LIGHT_1_VCC Pin=RL2-2
+Removed Pin From Net: NetName=LIGHT_1_GND Pin=RL2-3
+Change Component Description : Designator=L1 Old Description=Power Inductor, Aec-Q200, 47Uh, 0.39A Rohs Compliant: Yes New Description=Power Inductor, Aec-Q200, 47Uh, 0.39A Rohs Compliant: Yes |Wurth Elektronik 78438335470
+Added Pin To Net: NetName=LIGHT_1_VCC Pin=RL1-2
+Added Pin To Net: NetName=LIGHT_1_GND Pin=RL1-3
+Added Pin To Net: NetName=LIGHT_2_VCC Pin=RL2-2
+Added Pin To Net: NetName=LIGHT_2_GND Pin=RL2-3

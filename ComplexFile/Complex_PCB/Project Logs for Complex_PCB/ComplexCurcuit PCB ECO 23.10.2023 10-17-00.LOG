@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=12VDC Pin=C1-1
+Removed Pin From Net: NetName=12VDC Pin=C2-1
+Removed Pin From Net: NetName=12VDC Pin=F1-2
+Added Component: Designator=D9(SOD323F)
+Add component (AddParameter): Name = "Case Package"; Value = "SOD323F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Rectifier Diodes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/15208/getdatasheetpartid-127819-15208358.pdf?src-supplier=Verical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/15208/getdatasheetpartid-127819-15208358.pdf?src-supplier=Verical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designed By"; Value = "Görkem Bulut"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ON Semiconductor / Fairchild"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "1N4148WS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Voltage"; Value = "75V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operatþng Current"; Value = "150mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "1=0,18, 10=0,169, 100=0,0918, 500=0,0565, 1000=0,03852 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "1572050"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "1N4148WSFSCT-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=12VDC Pin=D9-C
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=C2-1
+Added Pin To Net: NetName=NetC1_1 Pin=D9-A
+Added Pin To Net: NetName=NetC1_1 Pin=F1-2
+Added Net: Name=NetC1_1
+Added Member To Class: ClassName=PowerManagment Member=Component D9 DIODE GEN PURP 75V 150MA SOD323F

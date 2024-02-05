@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=NetJ7_3 Pin=U5-37
+Removed Pin From Net: NetName=NetJ7_4 Pin=U5-38
+Change Component Description : Designator=L1 Old Description=Power Inductor, Aec-Q200, 47Uh, 0.39A Rohs Compliant: Yes New Description=Power Inductor, Aec-Q200, 47Uh, 0.39A Rohs Compliant: Yes |Wurth Elektronik 78438335470
+Added Pin To Net: NetName=NetJ7_4 Pin=U5-37
+Added Pin To Net: NetName=NetJ7_3 Pin=U5-38

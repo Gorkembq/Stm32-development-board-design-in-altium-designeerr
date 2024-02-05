@@ -1,0 +1,5 @@
+Layer Pairs Export File for PCB: C:\Users\blt_g\OneDrive\Masaüstü\Altium Designer Çalýþmalarým\ComplexFile\Complex_PCB\ComplexCurcuit.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=complexcurcuit-roundholes.txt|DrillLayers=gtl,gp1,gp2,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=complexcurcuit-slotholes.txt|DrillLayers=gtl,gp1,gp2,gbl
+LayersSetName=Top_POWER_Blind_Vias|DrillFile=complexcurcuit-roundholes.tx1|DrillLayers=gtl,gp1,gp2
+LayersSetName=POWER_Bot_Blind_Vias|DrillFile=complexcurcuit-roundholes.tx2|DrillLayers=gp2,gbl

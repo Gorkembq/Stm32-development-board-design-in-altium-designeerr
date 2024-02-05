@@ -1,0 +1,27 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Complex_PCB.PrjPcb]
+   Generated File[ComplexCurcuit.GTO]
+   Generated File[ComplexCurcuit.GTP]
+   Generated File[ComplexCurcuit.GTS]
+   Generated File[ComplexCurcuit.GTL]
+   Generated File[ComplexCurcuit.GP1]
+   Generated File[ComplexCurcuit.GP2]
+   Generated File[ComplexCurcuit.GBL]
+   Generated File[ComplexCurcuit.GBS]
+   Generated File[ComplexCurcuit.GBP]
+   Generated File[ComplexCurcuit.GBO]
+   Generated File[ComplexCurcuit.GKO]
+   Generated File[ComplexCurcuit.GD1]
+   Generated File[ComplexCurcuit.GD3]
+   Generated File[ComplexCurcuit.GD4]
+   Generated File[ComplexCurcuit.GD2]
+   Generated File[ComplexCurcuit.GM]
+   Generated File[ComplexCurcuit.EXTREP]
+   Generated File[ComplexCurcuit.REP]
+
+
+Files Generated   : 18
+Documents Printed : 0
+
+Finished Output Generation At 15:20:58 On 5.02.2024
